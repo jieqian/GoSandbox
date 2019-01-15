@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "T/K4wj498YcF8ehQmu9m9hwniv4=",
+			"path": "github.com/toolkits/consistent",
+			"revision": "a6f56a64d1b1c43cf2a37082bd21f71a4f9e5c05",
+			"revisionTime": "2015-08-27T09:08:50Z"
+		}
+	],
+	"rootPath": "GoSandbox/Sandbox/consistentHash"
+}

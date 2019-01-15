@@ -1,0 +1,11 @@
+{
+	"ImportPath": "GoSandbox/Sandbox/consistentHash",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v77",
+	"Deps": [
+		{
+			"ImportPath": "github.com/toolkits/consistent",
+			"Rev": "a6f56a64d1b1c43cf2a37082bd21f71a4f9e5c05"
+		}
+	]
+}
