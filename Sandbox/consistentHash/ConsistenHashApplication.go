@@ -17,6 +17,10 @@ func RandStringBytes(n int) string {
 
 var myMap map[string]int
 
+func init(){
+	println("initial testing .............")
+}
+
 func main() {
 	//println(RandStringBytes(rand.Intn(10)))
 	//println(RandStringBytes(rand.Intn(10)))
